@@ -1,6 +1,6 @@
 # Nuxt 3 Ecommerce Web App
 
-A e-commerce web application built with Nuxt 3 and Nuxt UI
+An e-commerce web application built with Nuxt 3 and Nuxt UI
 
 ## Setup
 
