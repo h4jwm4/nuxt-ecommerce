@@ -1,8 +1,6 @@
 <template>
   <UApp>
-    <header>
-      Header content
-    </header>
+    <UHeader title="Nuxt Ecommerce" />
     <NuxtPage />
     <footer>
       Footer content
